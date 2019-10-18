@@ -10,5 +10,10 @@
             "name": "shehin",
             "email": "shehinfano@gmail.com"
         }
-    ]
+    ],
+    "autoload": {
+        "classmap": [
+            "src/"
+        ]
+    }
 }
