@@ -1,5 +1,5 @@
 {
-    "name": "shehin/procoder-validator",
+    "name": "shehin/procoderValidator",
     "description": "validates the csv files and aggregate the errors",
     "require": {
         "maatwebsite/excel": "^3.1"
@@ -10,9 +10,5 @@
             "name": "shehin",
             "email": "shehin@accubits.com"
         }
-    ],
-  "minimum-stability": "stable",
-    "autoload": {
-        "psr-4": {"shehin\\procoder-validator\\": "src/"}
-    }
+    ]
 }

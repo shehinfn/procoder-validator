@@ -1,6 +1,6 @@
 <?php 
 
-namespace shehin\procoder-validator;
+namespace shehin\procoderValidator;
 
 class Index
 {
