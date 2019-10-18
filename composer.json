@@ -1,0 +1,15 @@
+{
+    "name": "shehin/procoder-validator",
+    "description": "validates the csv files and aggregate the errors",
+    "type": "composer-plugin",
+    "require": {
+        "maatwebsite/excel": "^3.1"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "shehin",
+            "email": "shehin@accubits.com"
+        }
+    ]
+}
