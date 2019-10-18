@@ -12,8 +12,8 @@
         }
     ],
     "autoload": {
-        "classmap": [
-            "src/"
-        ]
+        "psr-4": {
+            "shehin\\procoder\\": "src/"
+        }
     }
 }
