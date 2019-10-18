@@ -1,5 +1,5 @@
 {
-    "name": "shehin/procoder-validator",
+    "name": "shehin/procodervalidator",
     "description": "validates the csv files and aggregate the errors",
     "require": {
         "maatwebsite/excel": "^3.1"
