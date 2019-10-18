@@ -1,8 +1,8 @@
 <?php 
 
-namespace shehin\procodervalidator;
+namespace shehin\procoder;
 
-class Index
+class Validator
 {
     public function greet($greet = "Hello World")
     {
