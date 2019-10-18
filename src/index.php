@@ -8,5 +8,9 @@ class Validator
     {
         return $greet;
     }
+    public function test()
+    {
+        return "abc";
+    }
 }
 
