@@ -19,4 +19,13 @@ class Utils
         return join(' and ', $both);
         
     }
+
+
+    public static function ordinalSuffix($n)
+    {
+        return date('S',mktime(1,1,1,1,( (($n>=10)+($n>=20)+($n==0))*10 + $n%10) ));
+
+    }
+
+
 }
