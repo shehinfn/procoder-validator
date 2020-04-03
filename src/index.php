@@ -12,7 +12,7 @@ use shehin\procodervalidator\Utils;
 class ProValidator
 {
     private $file;
-    private $collection;
+    public $collection;
     private $invalidColumns;
     private $rowRulesCustomMessage;
     private $validatorBag;

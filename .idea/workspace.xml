@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ad8a5df4-5103-49f7-b884-9f5d4647011c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Utils.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Utils.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,11 +20,11 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Utils.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="167">
-              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+            <state relative-caret-position="149">
+              <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -35,7 +34,7 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test.php">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
@@ -65,10 +64,10 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="223" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="67" />
     <option name="y" value="27" />
-    <option name="width" value="798" />
+    <option name="width" value="640" />
     <option name="height" value="555" />
   </component>
   <component name="ProjectView">
@@ -76,6 +75,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -87,7 +87,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -127,20 +126,24 @@
       <workItem from="1571564252269" duration="1176000" />
       <workItem from="1571577171326" duration="778000" />
       <workItem from="1571894041940" duration="563000" />
-      <workItem from="1573189160756" duration="620000" />
+      <workItem from="1573189160756" duration="1342000" />
+      <workItem from="1573211163331" duration="7000" />
+      <workItem from="1573212862992" duration="10000" />
+      <workItem from="1585822842757" duration="605000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9537000" />
+    <option name="totallyTimeSpent" value="10881000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="25" width="1299" height="743" extended-state="6" />
+    <frame x="67" y="25" width="1299" height="743" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.35834" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.377494" />
       <window_info id="Structure" order="2" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="0" visible="true" weight="0.33833334" />
+      <window_info anchor="bottom" id="Terminal" order="0" visible="true" weight="0.33833334" />
       <window_info anchor="bottom" id="Database Changes" order="1" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Docker" order="3" show_stripe_button="false" />
@@ -170,9 +173,6 @@
     <entry file="file://$PROJECT_DIR$/composer.lock">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -183,10 +183,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Utils.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="167">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="149">
+          <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.php">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
